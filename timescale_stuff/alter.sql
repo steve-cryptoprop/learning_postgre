@@ -1,0 +1,2 @@
+ALTER TABLE conditions
+  ADD COLUMN humidity DOUBLE PRECISION NULL;

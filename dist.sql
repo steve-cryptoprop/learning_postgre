@@ -1,0 +1,1 @@
+SELECT Distinct country FROM person ORDER BY country DESC;

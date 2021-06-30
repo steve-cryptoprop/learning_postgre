@@ -1,0 +1,9 @@
+insert into crypto (symbol) values ('Brassicaceae');
+insert into crypto (symbol) values ('Apiaceae');
+insert into crypto (symbol) values ('Cyperaceae');
+insert into crypto (symbol) values ('Asteraceae');
+insert into crypto (symbol) values ('Diapensiaceae');
+insert into crypto (symbol) values ('Orchidaceae');
+insert into crypto (symbol) values ('Najadaceae');
+insert into crypto (symbol) values ('Myrtaceae');
+insert into crypto (symbol) values ('Aquifoliaceae');

@@ -1,0 +1,1 @@
+Select * From person ORDER by date DESC;
